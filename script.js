@@ -11,12 +11,6 @@ function rajgadFort() {
     
     featuredImage.src = "https://images.unsplash.com/photo-1626407339413-60f4e6bc455e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     featuredImage.alt = "Rajgad Fort"
-
-    e.scrollIntoView({
-        block: 'start',
-        behavior: 'smooth',
-        inline: 'start'
-      })
 }
 
 function mumbaiBeach() {
@@ -26,12 +20,6 @@ function mumbaiBeach() {
     
     featuredImage.src = "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
     featuredImage.alt = "Mumbai Sea Landscape"
-
-    e.scrollIntoView({
-        block: 'start',
-        behavior: 'smooth',
-        inline: 'start'
-      })
 }
 
 function rajdhaniSatara() {
@@ -41,11 +29,5 @@ function rajdhaniSatara() {
     
     featuredImage.src = "https://images.unsplash.com/photo-1615872046725-e75c68ff1b5f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     featuredImage.alt = "Rajdhani Satara View"
-
-    e.scrollIntoView({
-        block: 'start',
-        behavior: 'smooth',
-        inline: 'start'
-      })
 }
 
